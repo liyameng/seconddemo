@@ -33,8 +33,10 @@ github使用教程
    <code> git diff </code> <br><br>
 8.查看历史版本
 ---
-    git log  <br><br>
-   简化输出信息：git log --pretty=oneline </code> 
+    git log  
+    
+   简化输出信息：git log --pretty=oneline </code> <br><br>
+   
 9.回退或回到某个版本
 ---
    <code> git reset --hard HEAD^ (版本代码) </code> <br><br>
@@ -52,7 +54,7 @@ github使用教程
 
 12.撤销修改：
 ---
-     <code> git checkout -- filename </code>
+      git checkout -- filename 
 
 13.创建与合并分支：
 ---
