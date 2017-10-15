@@ -21,23 +21,23 @@ github使用教程
 
 4.版本库添加文件：
 ---
-   <code> git add filename </code> <br>
+   <code> git add filename </code> <br><br>
 5.版本库提交文件
 ---
-   <code> git commit -m ‘备注’ </code> <br>
+   <code> git commit -m ‘备注’ </code> <br><br>
 6.查看版本库状态：
 ---
-   <code> git status </code> <br>
+   <code> git status </code> <br><br>
 7.查看文件的修改： 需要文件没有被添加和提交才可以查看
 ---
-   <code> git diff </code> <br>
+   <code> git diff </code> <br><br>
 8.查看历史版本
 ---
-   <code> git log  </code>
-   简化输出信息：<code> git log --pretty=oneline </code> <br>
+    git log  <br><br>
+   简化输出信息：git log --pretty=oneline </code> 
 9.回退或回到某个版本
 ---
-   <code> git reset --hard HEAD^ (版本代码) </code> <br>
+   <code> git reset --hard HEAD^ (版本代码) </code> <br><br>
 
 10.工作区和暂存区：
 ---
